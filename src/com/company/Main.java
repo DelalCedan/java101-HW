@@ -2,10 +2,11 @@ package com.company;
 
 import java.util.Scanner;
 
+//Not Ortalaması Hesaplayan Program
+
 public class Main {
 
     public static void main(String[] args) {
-
 
         double math, fizik , ph , kimya , turkce;
         Scanner Number = new Scanner(System.in);
