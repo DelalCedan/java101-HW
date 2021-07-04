@@ -11,7 +11,7 @@ public class Main {
         double math, fizik , ph , kimya , turkce;
         Scanner Number = new Scanner(System.in);
 
-        System.out.print("öğrenciyin adını yazınız :");
+        System.out.print("öğrencinin adını yazınız :");
         String name = Number.nextLine();
 
         System.out.print("math notu = ");
