@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Not Ortalaması Hesaplayan Program
 
-public class Main {
+public class notOrtalam {
 
     public static void main(String[] args) {
 
