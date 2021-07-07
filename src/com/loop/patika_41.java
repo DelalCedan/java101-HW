@@ -1,5 +1,10 @@
 package loop;
 
+/*
+    Kombinasyon formülü
+    C(n,r) = n! / (r! * (n-r)!)
+*/
+
 import java.util.Scanner;
 
 public class patika_41 {
