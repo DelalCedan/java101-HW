@@ -5,7 +5,7 @@ package loop;
 
 import java.util.Scanner;
 
-public class pratik_41 {
+public class pratik {
     public static void main(String[] args) {
         int sum =0 , n , count=0;
         double avr=0;
