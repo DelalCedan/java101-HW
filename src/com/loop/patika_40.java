@@ -12,7 +12,7 @@ public class patika_40 {
         for(int i=1 ; i<= n ; i*=4){
             System.out.println("4's Forces :" +i);
         }
-        System.out.println("------------------------");
+        System.out.println("-------------------------");
         for(int j=1 ; j<=n ; j*=5){
             System.out.println("5's Forces :" +j);
         }
