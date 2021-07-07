@@ -49,9 +49,5 @@ public class patika_41 {
 
         System.out.println("C(" + n + "," + r + ") = " +C);
 
-        System.out.println(n + " Sayısının " + r + "'li" + " Kombinasyonu = " + C);
-
-
-
     }
 }
