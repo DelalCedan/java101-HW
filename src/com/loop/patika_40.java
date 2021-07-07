@@ -1,5 +1,9 @@
 package loop;
 
+/*
+    Girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program
+*/
+
 import java.util.Scanner;
 
 public class patika_40 {
